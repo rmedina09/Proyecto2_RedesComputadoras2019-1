@@ -10,7 +10,7 @@ Fecha: 19/12/2018
 -- Creamos y cargamos la base de datos
 
 > psql -h localhost -U postgres -f script_database_pokemon.sql 
-> Ingresamos el password : 'postgres'
+Ingresamos el password : 'postgres'
 
 -- Creara la Base de Datos dbpokemon
 
