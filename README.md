@@ -1,5 +1,7 @@
 Autor: Raul Medina Peña
+
 Institución: Facultad de Ciencias, UNAM
+
 Fecha: 19/12/2018
 
 -- Aplicacion que simula el juego de pokemon, implementando 
