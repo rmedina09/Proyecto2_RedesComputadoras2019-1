@@ -5,12 +5,14 @@ Institución: Facultad de Ciencias, UNAM
 Fecha: 19/12/2018
 
 -- Aplicacion que simula el juego de pokemon, implementando 
+
 -- la arquitectura cliente servidor.
 
 -- Creamos y cargamos la base de datos
 
 > psql -h localhost -U postgres -f script_database_pokemon.sql 
-Ingresamos el password : 'postgres'
+
+> Ingresamos el password : 'postgres'
 
 -- Creara la Base de Datos dbpokemon
 
